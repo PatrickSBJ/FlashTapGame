@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlashTap</string>
+    <string name="game_instructions">Tap the square when the color is</string>
+</resources>
